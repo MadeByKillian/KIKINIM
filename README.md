@@ -181,6 +181,6 @@ MIT — libre d'utilisation, modification et distribution.
 
 Le script `anime-dl.sh` ainsi que ce README ont été développés avec l'assistance de [Claude](https://claude.ai) (Anthropic).
 
+L'idée originale est inspirée du projet **[ani-cli](https://github.com/pystardust/ani-cli)**, un excellent outil open-source pour regarder des animes en ligne de commande. `anime-dl.sh` en reprend le concept mais l'adapte pour **Anime-Sama** avec un focus sur le téléchargement.
 > *"Le code a été conçu et itéré en collaboration avec une IA — pas copié depuis Stack Overflow comme tout le monde."* 😄
-
 > **Disclaimer** : Ce script est destiné à un usage personnel. Respectez les conditions d'utilisation des sites sources et les lois en vigueur dans votre pays.
