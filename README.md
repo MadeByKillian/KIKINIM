@@ -13,7 +13,7 @@
 - 🔍 **Menu interactif** (via `fzf`) pour naviguer, chercher et configurer
 - 🚀 **Téléchargement multi-lecteurs** avec détection automatique du meilleur
 - 🔄 **Fallback automatique** si un lecteur échoue
-- 🎯 **Filtres** : langue, saison, épisode début/fin, qualité vidéo
+- 🎯 **Filtres** : langue, saison, épisode début/fin
 - ⚡ **Aria2c** pour des téléchargements parallèles rapides (16 connexions)
 - 📋 **Mode info** : liste les lecteurs disponibles et teste leur accessibilité
 - 🏷️ **Métadonnées** ajoutées automatiquement au fichier `.mkv`
