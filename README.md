@@ -177,4 +177,10 @@ MIT — libre d'utilisation, modification et distribution.
 
 ---
 
+## 🤖 Généré avec l'aide de l'IA
+
+Le script `anime-dl.sh` ainsi que ce README ont été développés avec l'assistance de [Claude](https://claude.ai) (Anthropic).
+
+> *"Le code a été conçu et itéré en collaboration avec une IA — pas copié depuis Stack Overflow comme tout le monde."* 😄
+
 > **Disclaimer** : Ce script est destiné à un usage personnel. Respectez les conditions d'utilisation des sites sources et les lois en vigueur dans votre pays.
